@@ -1,4 +1,5 @@
 Healthcare Patient Analytics using Excel
+
 📌 Project Overview
 
 This project analyzes healthcare patient data using Microsoft Excel by integrating multiple relational datasets such as patients, diagnosis, outcomes, and lab results. The goal is to derive meaningful clinical insights using lookup functions, calculated fields, and pivot-based analysis.
